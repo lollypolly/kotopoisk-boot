@@ -1,0 +1,25 @@
+.rainbow {
+    background: linear-gradient(135deg, #FEBCFF 0%, #FABEBE 100%);
+}
+
+.w-10 {
+    width: 10%;
+    height: 100vh;
+}
+
+.w-90 {
+    width: 90%;
+    height: 100vh;
+}
+
+.left-menu-p {
+    font-family: Oswald, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-decoration: none;
+    color: #3B3B3B;
+}
+
+.collections {
+}
